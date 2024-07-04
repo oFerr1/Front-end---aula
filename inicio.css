@@ -1,0 +1,40 @@
+.NavbarUm{
+
+    background-color: rgba(128, 128, 128, 0.651);
+
+    border-radius: 10px;
+
+    height: 40px;
+
+}
+
+
+
+.ButtonLogin{
+
+    background-color: rgb(189, 36, 36);
+
+   outline: none;
+
+    width: 50px;
+
+    height: 20px;
+
+    border-radius: 10px;
+
+}
+
+.ButtonLogin:hover{
+
+    background-color: rgb(139, 2, 2);
+
+    box-shadow: 1px 1px 1px 1px;
+
+    width: 52px;
+
+    height: 22px;
+
+    transition: 1s;
+
+    border-radius: 10px;
+}
